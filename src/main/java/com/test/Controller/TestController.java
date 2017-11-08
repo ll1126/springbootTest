@@ -45,7 +45,7 @@ public class TestController {
         System.out.println(EhcacheUtil.getInstance().get("user",id));
         //第二次查询
         Long l3 = new Date().getTime();
-        System.out.println("第二次开始时间："+l3);
+        System.out.println("111");
         System.out.println("第二次开始时间："+l3);
         id = 7;
         Map a1 = userService.getUser(id);
