@@ -1,0 +1,168 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="springbootTest:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/springbootTest_jar</output-path>
+    <root id="archive" name="springbootTest.jar">
+      <element id="module-output" name="springbootTest" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-jdbc/1.5.6.RELEASE/spring-boot-starter-jdbc-1.5.6.RELEASE.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-web/1.5.6.RELEASE/spring-boot-starter-web-1.5.6.RELEASE.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-devtools/1.5.6.RELEASE/spring-boot-devtools-1.5.6.RELEASE.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/io/springfox/springfox-spring-web/2.7.0/springfox-spring-web-2.7.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bouncycastle/bcprov-jdk15on/1.55/bcprov-jdk15on-1.55.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter/1.5.6.RELEASE/spring-boot-starter-1.5.6.RELEASE.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/io/springfox/springfox-schema/2.7.0/springfox-schema-2.7.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.3.10.RELEASE/spring-webmvc-4.3.10.RELEASE.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-commons/1.2.3.RELEASE/spring-cloud-commons-1.2.3.RELEASE.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/io/swagger/swagger-models/1.5.13/swagger-models-1.5.13.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/hibernate/hibernate-validator/5.3.5.Final/hibernate-validator-5.3.5.Final.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-annotations/2.8.0/jackson-annotations-2.8.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/aspectj/aspectjweaver/1.8.10/aspectjweaver-1.8.10.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-core/2.8.9/jackson-core-2.8.9.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-logging/1.5.6.RELEASE/spring-boot-starter-logging-1.5.6.RELEASE.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-thymeleaf/1.5.6.RELEASE/spring-boot-starter-thymeleaf-1.5.6.RELEASE.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/codehaus/groovy/groovy/2.4.12/groovy-2.4.12.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-context/1.2.3.RELEASE/spring-cloud-context-1.2.3.RELEASE.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/springframework/spring-expression/4.3.10.RELEASE/spring-expression-4.3.10.RELEASE.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/tomcat/tomcat-jdbc/8.5.16/tomcat-jdbc-8.5.16.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/io/springfox/springfox-swagger2/2.7.0/springfox-swagger2-2.7.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/springframework/spring-jdbc/4.3.10.RELEASE/spring-jdbc-4.3.10.RELEASE.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/net/bytebuddy/byte-buddy/1.6.14/byte-buddy-1.6.14.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/hynnet/sqljdbc4-chs/4.0.2206.100/sqljdbc4-chs-4.0.2206.100.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/mapstruct/mapstruct/1.1.0.Final/mapstruct-1.1.0.Final.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-websocket/8.5.16/tomcat-embed-websocket-8.5.16.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/thymeleaf/thymeleaf-spring4/2.1.5.RELEASE/thymeleaf-spring4-2.1.5.RELEASE.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/tomcat/tomcat-juli/8.5.16/tomcat-juli-8.5.16.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/thymeleaf/thymeleaf/2.1.5.RELEASE/thymeleaf-2.1.5.RELEASE.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/1.5.6.RELEASE/spring-boot-1.5.6.RELEASE.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/mysql/mysql-connector-java/5.1.43/mysql-connector-java-5.1.43.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-actuator/1.5.6.RELEASE/spring-boot-actuator-1.5.6.RELEASE.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-tomcat/1.5.6.RELEASE/spring-boot-starter-tomcat-1.5.6.RELEASE.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/baomidou/mybatis-plus/2.1.0/mybatis-plus-2.1.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/io/springfox/springfox-core/2.7.0/springfox-core-2.7.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-config-client/1.3.2.RELEASE/spring-cloud-config-client-1.3.2.RELEASE.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/fasterxml/classmate/1.3.3/classmate-1.3.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/springframework/spring-aop/4.3.10.RELEASE/spring-aop-4.3.10.RELEASE.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.10.RELEASE/spring-context-4.3.10.RELEASE.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/reflections/reflections/0.9.11/reflections-0.9.11.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/baomidou/mybatisplus-spring-boot-starter/1.0.4/mybatisplus-spring-boot-starter-1.0.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-rsa/1.0.3.RELEASE/spring-security-rsa-1.0.3.RELEASE.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/jboss/logging/jboss-logging/3.3.1.Final/jboss-logging-3.3.1.Final.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/yaml/snakeyaml/1.17/snakeyaml-1.17.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/slf4j/jul-to-slf4j/1.7.25/jul-to-slf4j-1.7.25.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.8.9/jackson-databind-2.8.9.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/springframework/spring-core/4.3.10.RELEASE/spring-core-4.3.10.RELEASE.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-crypto/4.2.3.RELEASE/spring-security-crypto-4.2.3.RELEASE.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.3.10.RELEASE/spring-beans-4.3.10.RELEASE.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-aop/1.5.6.RELEASE/spring-boot-starter-aop-1.5.6.RELEASE.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/io/springfox/springfox-swagger-ui/2.7.0/springfox-swagger-ui-2.7.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/unbescape/unbescape/1.1.0.RELEASE/unbescape-1.1.0.RELEASE.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/ognl/ognl/3.0.8/ognl-3.0.8.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/nz/net/ultraq/thymeleaf/thymeleaf-layout-dialect/1.4.0/thymeleaf-layout-dialect-1.4.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/io/springfox/springfox-swagger-common/2.7.0/springfox-swagger-common-2.7.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.7.25/slf4j-api-1.7.25.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/springframework/plugin/spring-plugin-core/1.2.0.RELEASE/spring-plugin-core-1.2.0.RELEASE.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/google/guava/guava/18.0/guava-18.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/github/jsqlparser/jsqlparser/1.1/jsqlparser-1.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-starter-config/1.3.2.RELEASE/spring-cloud-starter-config-1.3.2.RELEASE.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-el/8.5.16/tomcat-embed-el-8.5.16.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.10.RELEASE/spring-web-4.3.10.RELEASE.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/mybatis/mybatis-spring/1.3.1/mybatis-spring-1.3.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/javassist/javassist/3.21.0-GA/javassist-3.21.0-GA.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/slf4j/log4j-over-slf4j/1.7.25/log4j-over-slf4j-1.7.25.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/springframework/plugin/spring-plugin-metadata/1.2.0.RELEASE/spring-plugin-metadata-1.2.0.RELEASE.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/javax/validation/validation-api/1.1.0.Final/validation-api-1.1.0.Final.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-actuator/1.5.6.RELEASE/spring-boot-starter-actuator-1.5.6.RELEASE.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/1.5.6.RELEASE/spring-boot-autoconfigure-1.5.6.RELEASE.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/8.5.16/tomcat-embed-core-8.5.16.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/slf4j/jcl-over-slf4j/1.7.25/jcl-over-slf4j-1.7.25.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/github/xiaoymin/swagger-bootstrap-ui/1.6/swagger-bootstrap-ui-1.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-starter/1.2.3.RELEASE/spring-cloud-starter-1.2.3.RELEASE.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/ch/qos/logback/logback-classic/1.1.11/logback-classic-1.1.11.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/ch/qos/logback/logback-core/1.1.11/logback-core-1.1.11.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bouncycastle/bcpkix-jdk15on/1.55/bcpkix-jdk15on-1.55.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/springframework/spring-tx/4.3.10.RELEASE/spring-tx-4.3.10.RELEASE.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/io/springfox/springfox-spi/2.7.0/springfox-spi-2.7.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/io/swagger/swagger-annotations/1.5.13/swagger-annotations-1.5.13.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.4.4/mybatis-3.4.4.jar" path-in-jar="/" />
+      <element id="library" level="project" name="Maven: org.springframework.boot:spring-boot-starter-aop:1.5.6.RELEASE" />
+      <element id="library" level="project" name="Maven: org.springframework.boot:spring-boot-starter:1.5.6.RELEASE" />
+      <element id="library" level="project" name="Maven: org.springframework.boot:spring-boot-starter-logging:1.5.6.RELEASE" />
+      <element id="library" level="project" name="Maven: ch.qos.logback:logback-classic:1.1.11" />
+      <element id="library" level="project" name="Maven: ch.qos.logback:logback-core:1.1.11" />
+      <element id="library" level="project" name="Maven: org.slf4j:jcl-over-slf4j:1.7.25" />
+      <element id="library" level="project" name="Maven: org.slf4j:jul-to-slf4j:1.7.25" />
+      <element id="library" level="project" name="Maven: org.slf4j:log4j-over-slf4j:1.7.25" />
+      <element id="library" level="project" name="Maven: org.yaml:snakeyaml:1.17" />
+      <element id="library" level="project" name="Maven: org.springframework:spring-aop:4.3.10.RELEASE" />
+      <element id="library" level="project" name="Maven: org.springframework:spring-beans:4.3.10.RELEASE" />
+      <element id="library" level="project" name="Maven: org.aspectj:aspectjweaver:1.8.10" />
+      <element id="library" level="project" name="Maven: org.springframework.cloud:spring-cloud-starter-config:1.3.2.RELEASE" />
+      <element id="library" level="project" name="Maven: org.springframework.cloud:spring-cloud-starter:1.2.3.RELEASE" />
+      <element id="library" level="project" name="Maven: org.springframework.cloud:spring-cloud-context:1.2.3.RELEASE" />
+      <element id="library" level="project" name="Maven: org.springframework.security:spring-security-crypto:4.2.3.RELEASE" />
+      <element id="library" level="project" name="Maven: org.springframework.cloud:spring-cloud-commons:1.2.3.RELEASE" />
+      <element id="library" level="project" name="Maven: org.springframework.security:spring-security-rsa:1.0.3.RELEASE" />
+      <element id="library" level="project" name="Maven: org.bouncycastle:bcpkix-jdk15on:1.55" />
+      <element id="library" level="project" name="Maven: org.bouncycastle:bcprov-jdk15on:1.55" />
+      <element id="library" level="project" name="Maven: org.springframework.cloud:spring-cloud-config-client:1.3.2.RELEASE" />
+      <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-annotations:2.8.0" />
+      <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-databind:2.8.9" />
+      <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-core:2.8.9" />
+      <element id="library" level="project" name="Maven: org.springframework.boot:spring-boot-starter-thymeleaf:1.5.6.RELEASE" />
+      <element id="library" level="project" name="Maven: org.thymeleaf:thymeleaf-spring4:2.1.5.RELEASE" />
+      <element id="library" level="project" name="Maven: org.thymeleaf:thymeleaf:2.1.5.RELEASE" />
+      <element id="library" level="project" name="Maven: ognl:ognl:3.0.8" />
+      <element id="library" level="project" name="Maven: org.javassist:javassist:3.21.0-GA" />
+      <element id="library" level="project" name="Maven: org.unbescape:unbescape:1.1.0.RELEASE" />
+      <element id="library" level="project" name="Maven: nz.net.ultraq.thymeleaf:thymeleaf-layout-dialect:1.4.0" />
+      <element id="library" level="project" name="Maven: org.codehaus.groovy:groovy:2.4.12" />
+      <element id="library" level="project" name="Maven: org.springframework.boot:spring-boot-starter-web:1.5.6.RELEASE" />
+      <element id="library" level="project" name="Maven: org.springframework.boot:spring-boot-starter-tomcat:1.5.6.RELEASE" />
+      <element id="library" level="project" name="Maven: org.apache.tomcat.embed:tomcat-embed-core:8.5.16" />
+      <element id="library" level="project" name="Maven: org.apache.tomcat.embed:tomcat-embed-el:8.5.16" />
+      <element id="library" level="project" name="Maven: org.apache.tomcat.embed:tomcat-embed-websocket:8.5.16" />
+      <element id="library" level="project" name="Maven: org.hibernate:hibernate-validator:5.3.5.Final" />
+      <element id="library" level="project" name="Maven: javax.validation:validation-api:1.1.0.Final" />
+      <element id="library" level="project" name="Maven: org.jboss.logging:jboss-logging:3.3.1.Final" />
+      <element id="library" level="project" name="Maven: org.springframework:spring-web:4.3.10.RELEASE" />
+      <element id="library" level="project" name="Maven: org.springframework:spring-context:4.3.10.RELEASE" />
+      <element id="library" level="project" name="Maven: org.springframework:spring-webmvc:4.3.10.RELEASE" />
+      <element id="library" level="project" name="Maven: org.springframework:spring-expression:4.3.10.RELEASE" />
+      <element id="library" level="project" name="Maven: org.springframework.boot:spring-boot-devtools:1.5.6.RELEASE" />
+      <element id="library" level="project" name="Maven: org.springframework.boot:spring-boot:1.5.6.RELEASE" />
+      <element id="library" level="project" name="Maven: org.springframework.boot:spring-boot-autoconfigure:1.5.6.RELEASE" />
+      <element id="library" level="project" name="Maven: org.springframework:spring-core:4.3.10.RELEASE" />
+      <element id="library" level="project" name="Maven: org.springframework.boot:spring-boot-starter-actuator:1.5.6.RELEASE" />
+      <element id="library" level="project" name="Maven: org.springframework.boot:spring-boot-actuator:1.5.6.RELEASE" />
+      <element id="library" level="project" name="Maven: com.hynnet:sqljdbc4-chs:4.0.2206.100" />
+      <element id="library" level="project" name="Maven: mysql:mysql-connector-java:5.1.43" />
+      <element id="library" level="project" name="Maven: org.springframework.boot:spring-boot-starter-jdbc:1.5.6.RELEASE" />
+      <element id="library" level="project" name="Maven: org.apache.tomcat:tomcat-jdbc:8.5.16" />
+      <element id="library" level="project" name="Maven: org.apache.tomcat:tomcat-juli:8.5.16" />
+      <element id="library" level="project" name="Maven: org.springframework:spring-jdbc:4.3.10.RELEASE" />
+      <element id="library" level="project" name="Maven: org.springframework:spring-tx:4.3.10.RELEASE" />
+      <element id="library" level="project" name="Maven: com.baomidou:mybatisplus-spring-boot-starter:1.0.4" />
+      <element id="library" level="project" name="Maven: com.baomidou:mybatis-plus:2.1.0" />
+      <element id="library" level="project" name="Maven: org.mybatis:mybatis-spring:1.3.1" />
+      <element id="library" level="project" name="Maven: org.mybatis:mybatis:3.4.4" />
+      <element id="library" level="project" name="Maven: com.github.jsqlparser:jsqlparser:1.1" />
+      <element id="library" level="project" name="Maven: io.springfox:springfox-swagger2:2.7.0" />
+      <element id="library" level="project" name="Maven: io.swagger:swagger-annotations:1.5.13" />
+      <element id="library" level="project" name="Maven: io.swagger:swagger-models:1.5.13" />
+      <element id="library" level="project" name="Maven: io.springfox:springfox-spi:2.7.0" />
+      <element id="library" level="project" name="Maven: io.springfox:springfox-core:2.7.0" />
+      <element id="library" level="project" name="Maven: net.bytebuddy:byte-buddy:1.6.14" />
+      <element id="library" level="project" name="Maven: io.springfox:springfox-schema:2.7.0" />
+      <element id="library" level="project" name="Maven: io.springfox:springfox-swagger-common:2.7.0" />
+      <element id="library" level="project" name="Maven: io.springfox:springfox-spring-web:2.7.0" />
+      <element id="library" level="project" name="Maven: org.reflections:reflections:0.9.11" />
+      <element id="library" level="project" name="Maven: com.google.guava:guava:18.0" />
+      <element id="library" level="project" name="Maven: com.fasterxml:classmate:1.3.3" />
+      <element id="library" level="project" name="Maven: org.slf4j:slf4j-api:1.7.25" />
+      <element id="library" level="project" name="Maven: org.springframework.plugin:spring-plugin-core:1.2.0.RELEASE" />
+      <element id="library" level="project" name="Maven: org.springframework.plugin:spring-plugin-metadata:1.2.0.RELEASE" />
+      <element id="library" level="project" name="Maven: org.mapstruct:mapstruct:1.1.0.Final" />
+      <element id="library" level="project" name="Maven: io.springfox:springfox-swagger-ui:2.7.0" />
+      <element id="library" level="project" name="Maven: com.github.xiaoymin:swagger-bootstrap-ui:1.6" />
+    </root>
+  </artifact>
+</component>
